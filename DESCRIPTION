@@ -1,6 +1,6 @@
 Package: hydrofabric3D
 Title: hydrofabric3D
-Version: 0.1.97
+Version: 0.1.98
 Authors@R: c(person("Mike", "Johnson", role = c("aut"), email = "mike.johnson@noaa.gov"),
              person("Angus", "Watters",  role = c("aut", "cre"), email = "anguswatters@gmail.com"),
              person("Arash", "Modaresi",  role = "ctb"),
